@@ -1,0 +1,7 @@
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\whileDongusu\bin\Debug\whileDongusu.exe.config
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\whileDongusu\bin\Debug\whileDongusu.exe
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\whileDongusu\bin\Debug\whileDongusu.pdb
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\whileDongusu\obj\Debug\whileDongusu.csproj.AssemblyReference.cache
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\whileDongusu\obj\Debug\whileDongusu.csproj.CoreCompileInputs.cache
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\whileDongusu\obj\Debug\whileDongusu.exe
+C:\Users\kerdo\OneDrive\Masaüstü\Derle-Topla\Kurslar\Patika\console-programlama\whileDongusu\obj\Debug\whileDongusu.pdb
